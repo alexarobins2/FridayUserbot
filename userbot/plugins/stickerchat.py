@@ -31,7 +31,7 @@ logger = logging.getLogger(__name__)
 if 1 == 1:
     strings = {
         "name": "Quotes",
-        "api_token_cfg_doc": "API Key/Token for Quotes.",
+        "api_token_cfg_doc": "10c3fa99-4634-405c-83b3-9f5579aedd2a.",
         "api_url_cfg_doc": "API URL for Quotes.",
         "colors_cfg_doc": "Username colors",
         "default_username_color_cfg_doc": "Default color for the username.",
